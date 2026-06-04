@@ -109,7 +109,7 @@ export default function Contact() {
             Pedro<span style={{ color: '#2563eb' }}>.</span>
           </span>
           <p style={{ fontSize: '13px', color: '#9aa3b0' }}>
-            © 2025 Pedro Luis Bedon Carbajal — Frontend Developer
+            © 2026 Pedro Luis Bedon Carbajal — Frontend Developer
           </p>
           <p style={{ display: 'flex', alignItems: 'center', gap: '5px', fontSize: '13px', color: '#9aa3b0' }}>
             <MapPin size={13} strokeWidth={1.75} />

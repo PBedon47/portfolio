@@ -27,7 +27,7 @@ export default function About() {
               Construyo interfaces<br />que <span style={{ color: '#2563eb' }}>importan.</span>
             </h2>
             <p style={{ color: '#5a6272', lineHeight: 1.8, marginBottom: '16px', fontSize: '15px' }}>
-              Egresado de Ingeniería de Software con IA, con experiencia práctica en desarrollo
+              Egresado de la carrera técnica de Ingeniería de Software con IA, con experiencia práctica en desarrollo
               frontend utilizando React, Next.js, TypeScript y Vite.
             </p>
             <p style={{ color: '#5a6272', lineHeight: 1.8, marginBottom: '32px', fontSize: '15px' }}>

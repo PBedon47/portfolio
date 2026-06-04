@@ -38,7 +38,7 @@ export default function Hero() {
           {/* Name */}
           <h1 style={{ fontSize: 'clamp(44px, 7vw, 76px)', fontWeight: 800, lineHeight: 1.0, marginBottom: '14px', letterSpacing: '-0.03em' }}>
             Pedro Luis<br />
-            <span style={{ color: '#2563eb' }}>Bedón Carbajal</span>
+            <span style={{ color: '#2563eb' }}>Bedon Carbajal</span>
           </h1>
 
           {/* Typewriter */}

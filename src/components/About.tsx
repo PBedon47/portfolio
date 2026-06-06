@@ -3,10 +3,10 @@
 import { GraduationCap, Rocket, Bot } from 'lucide-react'
 
 const stats = [
-  { value: '3+', label: 'Proyectos empresariales' },
-  { value: '2', label: 'Empresas como cliente' },
-  { value: '5+', label: 'Tecnologías dominadas' },
-  { value: '1', label: 'App en producción con IA' },
+  { value: '3+', label: 'Proyectos destacados' },
+  { value: '2', label: 'Empresas de prácticas' },
+  { value: '10+', label: 'Tecnologías utilizadas' },
+  { value: '1', label: 'Asistente IA implementado' },
 ]
 
 const tags = [

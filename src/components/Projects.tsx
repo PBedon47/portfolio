@@ -80,7 +80,7 @@ const projects = [
       'Automatización del flujo de consultas y agendamiento de reuniones',
       'Proyecto de tesis grupal (3 integrantes) — implementado y en uso activo en entorno real',
     ],
-    tech: ['Next.js', 'React', 'LangChain', 'ChatGPT'],
+    tech: ['Next.js', 'TypeScript', 'React', 'LangChain', 'ChatGPT'],
     color: '#065f46', bg: '#f0fdf4',
     image: '/projects/chatbot.png',
     panelExtra: (

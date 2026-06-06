@@ -16,7 +16,7 @@ const experiences = [
       'Implementación de un asistente virtual con IA actualmente en uso para automatizar consultas y agendamiento',
       'Despliegue en AWS y Vercel; trabajo en equipo bajo metodologías ágiles (Scrum)',
     ],
-    tags: ['React', 'Next.js', 'TypeScript', 'Node.js', 'NestJS', 'PostgreSQL', 'AWS', 'Figma'],
+    tags: ['React', 'Next.js', 'TypeScript', 'JavaScript', 'Node.js', 'NestJS', 'PostgreSQL', 'AWS', 'Figma'],
   },
   {
     company: 'APM Inversiones E.I.R.L.',
@@ -57,7 +57,7 @@ export default function Experience() {
           Donde he <span style={{ color: '#5a6272', fontWeight: 400 }}>trabajado.</span>
         </h2>
         <p style={{ color: '#5a6272', fontSize: '15px', marginBottom: '52px', maxWidth: '480px' }}>
-          Experiencia en proyectos empresariales reales con impacto medible.
+          Experiencia adquirida en prácticas profesionales y proyectos de desarrollo de software.
         </p>
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>

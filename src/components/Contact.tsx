@@ -14,7 +14,7 @@ const links = [
     Icon: Link,
     label: 'LinkedIn',
     value: 'linkedin.com/in/pedro-bedon-carbajal',
-    href: 'https://linkedin.com/in/pedro-bedon-carbajal-356703333',
+    href: 'https://linkedin.com/in/pedro-bedon-carbajal',
     desc: 'Conectemos profesionalmente',
   },
   {
